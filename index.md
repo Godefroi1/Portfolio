@@ -8,7 +8,12 @@ title: Mon Portfolio
 
 Voici mon espace où je présente mes projets, expériences et réalisations.
 
-## 🎯 Sections à venir
-- Mes projets
-- À propos
-- Contact
+## Projets personnels
+- Plateforme de Stewart
+- Tourelle autonome
+
+### Projets académiques
+- Robot de démantèlement (partenaria CEA)
+
+
+#### Contact
