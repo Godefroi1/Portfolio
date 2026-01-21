@@ -9,7 +9,7 @@ Voici mon espace où je présente mes projets, expériences et réalisations.
 
 ## Projets personnels
 - [Plateforme de Stewart](projet-stewart.md)
-- [Tourelle autonome](projet-tourelle.md]
+- [Tourelle autonome](projet-tourelle.md)
   
 
 ### Projets académiques
