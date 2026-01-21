@@ -13,7 +13,7 @@ Voici mon espace où je présente mes projets, expériences et réalisations.
   
 
 ### Projets académiques
-- Robot de démantèlement (partenaria CEA)
+- [Robot de démantèlement (partenaria CEA)](projet-cea.md)
 
 
 #### Contact
