@@ -61,6 +61,5 @@ La mise en mouvement est assurée par **6 servomoteurs MG996R (couple de 9 kg.cm
 
 Bien que ces actionneurs permettent un prototypage à coût maîtrisé, leur résolution limitée a mis en évidence des défis de stabilité. Les imprécisions mécaniques internes des servos tendent à amplifier les phénomènes d'oscillation dans les boucles de rétroaction, impactant la fluidité globale du système sur cette première version.
 
-
-
+L'unité de contrôle (ESP32) est reliée à l'ordinateur par un câble USB-C. Ce dernier sert d'interface bidirectionnelle : il assure **l'alimentation** du microcontrôleur tout en servant de **bus de communication** pour le transfert des consignes de mouvement générées par l'IHM.
 
