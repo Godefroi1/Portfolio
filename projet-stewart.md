@@ -13,7 +13,16 @@ Ces six degrés de liberté correspondent à :
 - trois **translations** : X, Y, Z  
 - trois **rotations** : roulis (*roll*), tangage (*pitch*) et lacet (*yaw*)
   
-![Animation plateforme de Stewart](Hexapod_general_Anim.gif)
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;" width="50%">
+      <img src="assets/Hexapod_general_Anim.gif" alt="Animation Hexapode" style="width:100%;">
+    </td>
+    <td style="border: none;" width="50%">
+      <img src="assets/stewart-plateform-ouilogique.jpg" alt="Plateforme Stewart" style="width:100%;">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🧩 Principe de fonctionnement
