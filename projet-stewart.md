@@ -48,11 +48,19 @@ Les mouvements sont obtenus grâce au calcul de la **cinématique inverse** :
 
 Cette première itération a été conçue comme une **Preuve de Concept (PoC)** à coût maîtrisé. En utilisant des matériaux simples et des techniques de prototypage rapide, l'objectif était de valider la chaîne de contrôle et les algorithmes de cinématique inverse avant d'engager le développement d'une version optimisée. 
 
-### ⚙️ Assemblage mécanique
+### ⚙️ Architecture mécanique
 
-Les **plateformes inférieure et supérieure** sont réalisées à partir **d'hexagones** qui est une des géométrie les plus courante de plateforme de stewart. 
-La plateforme inférieure est réalisée dans une découpe de bois. 
-La plateforme supérieure est réalisée dans une découpe d'acrylique. 
+La structure repose sur une configuration hexagonale classique, choisie pour sa stabilité et sa symétrie, facilitant ainsi la modélisation géométrique du système.
+
+- **Châssis** : Les plateformes inférieure (base fixe) et supérieure (plateforme mobile) ont été réalisées par découpe de bois et d'acrylique. Ce mélange de matériaux a permis un prototypage rapide tout en conservant une rigidité suffisante pour cette phase de test.
+
+- **Transmission** : Le mouvement est transmis via des bras de levier de 25 mm (issus du modélisme RC).
+
+- **Liaisons & Cinématique** :
+
+    - Les biellettes sont constituées de **tiges filetées M3 de 200 mm**, permettant un ajustement précis de la hauteur initiale de la plateforme.
+
+    - Les liaisons pivots et rotules sont assurées par des **chapes à rotule M3**, garantissant les degrés de liberté nécessaires aux mouvements d'inclinaison sans contraintes structurelles excessives.
 
 
 ### 📟 Conception électronique
