@@ -78,4 +78,11 @@ La partie IHM et calculs de cinématique inverse est réalisée par le pc via de
   - IHM sous **Processing** (récupérée d'un projet de .....) et améliorée selon mes besoins.
   - Calculs de cinématique inverse sous Python (récupérés et adaptés depuis le projet de ....).
   - Communication entre ces 2 programmes via ....
-  - Envoie des consignes à l'ESP32 via le port série. 
+  - Envoie des consignes à l'ESP32 via le port série.
+
+
+
+## Sources
+
+Projet principal m'ayant inspiré : 
+https://github.com/felixros2401/Stewart-Platform
