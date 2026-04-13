@@ -75,8 +75,8 @@ L'unité de contrôle (ESP32) est reliée à l'ordinateur par un câble USB-C. C
 ### 🖥️ Architecture informatique
 
 La partie IHM et calculs de cinématique inverse est réalisée par le pc via deux codes : 
-  - IHM sous **Processing** (récupérée d'un projet de .....) et améliorée selon mes besoins.
-  - Calculs de cinématique inverse sous Python (récupérés et adaptés depuis le projet de ....).
+  - IHM sous **Processing** (récupérée du projet de felixros2401) et améliorée selon mes besoins.
+  - Calculs de cinématique inverse sous Python (récupérés et adaptés depuis le projet de felixros2401).
   - Communication entre ces 2 programmes via ....
   - Envoie des consignes à l'ESP32 via le port série.
 
@@ -85,4 +85,4 @@ La partie IHM et calculs de cinématique inverse est réalisée par le pc via de
 ## Sources
 
 Projet principal m'ayant inspiré : 
-https://github.com/felixros2401/Stewart-Platform
+**Projet inspiré par :** [![GitHub](https://img.shields.io/badge/GitHub-Inspiration-blue?logo=github)]([https://github.com/lien-du-projet](https://github.com/felixros2401/Stewart-Platform))
