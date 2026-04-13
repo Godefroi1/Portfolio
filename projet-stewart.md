@@ -12,7 +12,9 @@ Une **plateforme de Stewart**, également appelée **plateforme hexapode**, est 
 Ces six degrés de liberté correspondent à :
 - trois **translations** : X, Y, Z  
 - trois **rotations** : roulis (*roll*), tangage (*pitch*) et lacet (*yaw*)
-
+  
+Hexapod_general_Anim.gif
+``
 ---
 
 ## 🧩 Principe de fonctionnement
