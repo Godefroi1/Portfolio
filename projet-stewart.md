@@ -85,4 +85,4 @@ La partie IHM et calculs de cinématique inverse est réalisée par le pc via de
 ## Sources
 
 Projet principal m'ayant inspiré : 
-**Projet inspiré par :** [![GitHub](https://img.shields.io/badge/GitHub-Inspiration-blue?logo=github)]([https://github.com/lien-du-projet](https://github.com/felixros2401/Stewart-Platform))
+* **Felixros2401** : [Accéder au dépôt GitHub]([https://github.com/lien-du-projet](https://github.com/felixros2401/Stewart-Platform))
