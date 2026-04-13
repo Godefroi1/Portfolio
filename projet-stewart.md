@@ -63,7 +63,7 @@ La structure repose sur une configuration hexagonale classique, choisie pour sa 
     - Les liaisons pivots et rotules sont assurées par des **chapes à rotule M3**, garantissant les degrés de liberté nécessaires aux mouvements d'inclinaison sans contraintes structurelles excessives.
 
 
-### 📟 Conception électronique
+### 📟 Architecture électronique
 
 La mise en mouvement est assurée par **6 servomoteurs MG996R (couple de 9 kg.cm)**, pilotés par un **microcontrôleur ESP32** et alimentés par une source de laboratoire stabilisée.
 
@@ -71,3 +71,11 @@ Bien que ces actionneurs permettent un prototypage à coût maîtrisé, leur ré
 
 L'unité de contrôle (ESP32) est reliée à l'ordinateur par un câble USB-C. Ce dernier sert d'interface bidirectionnelle : il assure **l'alimentation** du microcontrôleur tout en servant de **bus de communication** pour le transfert des consignes de mouvement générées par l'IHM.
 
+
+### 🖥️ Architecture informatique
+
+La partie IHM et calculs de cinématique inverse est réalisée par le pc via deux codes : 
+  - IHM sous **Processing** (récupérée d'un projet de .....) et améliorée selon mes besoins.
+  - Calculs de cinématique inverse sous Python (récupérés et adaptés depuis le projet de ....).
+  - Communication entre ces 2 programmes via ....
+  - Envoie des consignes à l'ESP32 via le port série. 
