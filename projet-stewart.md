@@ -40,11 +40,11 @@ Les mouvements sont obtenus grâce au calcul de la **cinématique inverse** :
 
 ---
 
-# Première version
+## Première version
 
 Cette première itération a été conçue comme une **Preuve de Concept (PoC)** à coût maîtrisé. En utilisant des matériaux simples et des techniques de prototypage rapide, l'objectif était de valider la chaîne de contrôle et les algorithmes de cinématique inverse avant d'engager le développement d'une version optimisée. 
 
-## ⚙️ Assemblage mécanique
+### ⚙️ Assemblage mécanique
 
 Les **plateformes inférieure et supérieure** sont réalisées à partir **d'hexagones** qui est une des géométrie les plus courante de plateforme de stewart. 
 
