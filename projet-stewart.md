@@ -32,12 +32,20 @@ La structure est composée de :
 - une **plateforme mobile**
 - **six actionneurs** (vérins ou bras motorisés) reliant la base à la plateforme mobile
 
-Chaque actionneur peut varier sa longueur.  
+Chaque actionneur peut faire varier sa longueur.  
 En ajustant précisément la longueur des six actionneurs, il est possible de contrôler simultanément la **position** et l’**orientation** de la plateforme mobile.
 
 Les mouvements sont obtenus grâce au calcul de la **cinématique inverse** :  
 à partir d’une position et d’une orientation souhaitées, le système détermine la longueur que doit prendre chaque actionneur.
 
 ---
+
+# Première version
+
+Cette première itération a été conçue comme une **Preuve de Concept (PoC)** à coût maîtrisé. En utilisant des matériaux simples et des techniques de prototypage rapide, l'objectif était de valider la chaîne de contrôle et les algorithmes de cinématique inverse avant d'engager le développement d'une version optimisée. 
+
+## ⚙️ Assemblage mécanique
+
+Les **plateformes inférieure et supérieure** sont réalisées à partir **d'hexagones** qui est une des géométrie les plus courante de plateforme de stewart. 
 
 
