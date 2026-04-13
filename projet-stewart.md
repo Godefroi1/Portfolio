@@ -5,6 +5,10 @@ title: Plateforme de Stewart
 
 # Plateforme de Stewart
 
+## Sommaire 
+* TOC
+{:toc}
+
 ## 🔹 Qu’est-ce qu’une plateforme de Stewart ?
 
 Une **plateforme de Stewart**, également appelée **plateforme hexapode**, est un système mécatronique permettant de positionner et d’orienter une plateforme mobile dans l’espace selon **six degrés de liberté**.
