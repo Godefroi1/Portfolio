@@ -19,10 +19,10 @@ Ces six degrés de liberté correspondent à :
   
 <table style="border: none;">
   <tr style="border: none;">
-    <td style="border: none;" width="30%">
+    <td style="border: none;" width="35%">
       <img src="assets/Hexapod_general_Anim.gif" alt="Animation Hexapode" style="width:100%;">
     </td>
-    <td style="border: none;" width="70%">
+    <td style="border: none;" width="65%">
       <img src="assets/stewart-plateform-ouilogique.jpg" alt="Plateforme Stewart" style="width:100%;">
     </td>
   </tr>
