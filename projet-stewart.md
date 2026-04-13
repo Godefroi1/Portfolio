@@ -57,7 +57,7 @@ La plateforme supérieure est réalisée dans une découpe d'acrylique.
 
 ### 📟 Conception électronique
 
-La mise en mouvement est assurée par 6 servomoteurs MG996R (couple de 9 kg.cm), pilotés par un microcontrôleur ESP32 et alimentés par une source de laboratoire stabilisée.
+La mise en mouvement est assurée par **6 servomoteurs MG996R (couple de 9 kg.cm)**, pilotés par un **microcontrôleur ESP32** et alimentés par une source de laboratoire stabilisée.
 
 Bien que ces actionneurs permettent un prototypage à coût maîtrisé, leur résolution limitée a mis en évidence des défis de stabilité. Les imprécisions mécaniques internes des servos tendent à amplifier les phénomènes d'oscillation dans les boucles de rétroaction, impactant la fluidité globale du système sur cette première version.
 
