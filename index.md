@@ -22,6 +22,10 @@ Mon objectif est de concevoir des systèmes intelligents en intégrant des techn
 
 ## Projets personnels
 - [Plateforme de Stewart](projet-stewart.md)
+  *  **Système Embarqué :** Développement sur ESP32 et implémentation d'algorithmes de cinématique inverse.
+  *  **Contrôle :** Création d'une IHM sous Processing pour le pilotage en temps réel.
+  *  **Mécatronique :** Synchronisation de 6 servomoteurs pour des mouvements fluides et précis.
+    
 - [Tourelle autonome](projet-tourelle.md)
   
 
