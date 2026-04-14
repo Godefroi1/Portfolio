@@ -31,16 +31,17 @@ Mon objectif est de concevoir des systèmes intelligents en intégrant des techn
 
 ### Projets académiques
 - [Robot de démantèlement (partenaria CEA)](projet-cea.md)
-* **Modélisation URDF & Simulation :**
-    * [cite_start]Conception et rédaction du fichier **URDF** (Unified Robot Description Format) pour définir la structure cinématique du robot (joints et links).
-    * Intégration du modèle sous **Foxglove** pour le monitoring de l'état du robot en temps réel.
+  
+   * **Modélisation URDF & Simulation :**
+      * Conception et rédaction du fichier **URDF** (Unified Robot Description Format) pour définir la structure cinématique du robot (joints et links).
+      * Intégration du modèle sous **Foxglove** pour le monitoring de l'état du robot en temps réel.
       
-* **Perception par Intelligence Artificielle (YOLOv8) :**
-    * [cite_start]Implémentation d'un nœud de vision utilisant **YOLOv8** pour la reconnaissance et le tri d'objets spécifiques[cite: 8, 23].
+   * **Perception par Intelligence Artificielle (YOLOv8) :**
+      * Implémentation d'un nœud de vision utilisant **YOLOv8** pour la reconnaissance et le tri d'objets spécifiques.
       
-* **Architecture Logicielle ROS :**
-    * [cite_start]Développement de l'architecture de communication série entre Raspberry Pi 5 et Arduino Uno et Méga[cite: 45, 46].
-    * [cite_start]Rédaction d'une documentation technique exhaustive pour l'utilisateur final[cite: 46].
+   * **Architecture Logicielle ROS :**
+      * Développement de l'architecture de communication série entre Raspberry Pi 5 et Arduino Uno et Méga.
+      * Rédaction d'une documentation technique exhaustive pour l'utilisateur final.
 
 
 #### Contact
