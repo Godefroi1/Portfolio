@@ -9,7 +9,7 @@ title: Mon Portfolio
 # Bienvenue sur mon portfolio !
 
 Passionné par la **robotique mobile** et l'**Intelligence Artificielle**, je combine une formation théorique solide avec une pratique concrète du prototypage. 
-Mon objectif est de concevoir des systèmes intelligents en intégrant des technologies comme **ROS 2** et **YoloV8**.
+Mon objectif est de concevoir des systèmes intelligents en intégrant des technologies comme **ROS 2** et **YoloV8** afin de développer de nouvelles technologies.
 
 ### 🛠 Compétences Techniques (Issues de mon parcours)
 
@@ -27,6 +27,9 @@ Mon objectif est de concevoir des systèmes intelligents en intégrant des techn
   *  **Mécatronique :** Synchronisation de 6 servomoteurs pour des mouvements fluides et précis.
     
 - [Tourelle autonome](projet-tourelle.md)
+  * **Suivi Autonome :** Intégration du traitement du flux vidéo en temps réel de la webcam par le modèle d'IA YoloV8.
+  * **Electronique :** Création d'une architecture de commande et puissance commandée par un ESP32 qui communique en USB avec le PC.
+  * **Mécanique :** Modélisation et impression 3d des pièces de la tourelle (bâti, poulies, galet tendeur).
   
 
 ### Projets académiques
@@ -45,3 +48,4 @@ Mon objectif est de concevoir des systèmes intelligents en intégrant des techn
 
 
 #### Contact
+ 
