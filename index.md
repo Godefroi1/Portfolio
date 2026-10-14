@@ -4,7 +4,7 @@ title: Mon Portfolio
 ---
 
 # Godefroi TRUCHE
-**Futur Ingénieur en Mécatronique | IMT Mines Alès (Diplôme prévu en 2026)**
+**Ingénieur en Mécatronique | IMT Mines Alès**
 
 # Bienvenue sur mon portfolio !
 
