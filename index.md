@@ -26,6 +26,7 @@ Mon objectif est de concevoir des systèmes intelligents en intégrant des techn
   *  **Contrôle :** Création d'une IHM sous Processing pour le pilotage en temps réel.
   *  **Mécatronique :** Synchronisation de 6 servomoteurs pour des mouvements fluides et précis.
     
+    
 - [Tourelle autonome](projet-tourelle.md)
   * **Suivi Autonome :** Intégration du traitement du flux vidéo en temps réel de la webcam par le modèle d'IA YoloV8.
   * **Electronique :** Création d'une architecture de commande et puissance commandée par un ESP32 qui communique en USB avec le PC.
