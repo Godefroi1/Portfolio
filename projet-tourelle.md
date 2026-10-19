@@ -104,13 +104,13 @@ Les drivers sont réglés à 3200 impulsions par tour moteur.
  
 ## 📟 Électronique
  
-La tourelle est pilotée par deux moteurs pas à pas, chacun avec son driver, le tout alimenté par une alimentation industrielle 24 V. L'ESP32 reçoit les ordres de l'ordinateur et les transmet aux drivers.
+La tourelle est pilotée par deux moteurs pas à pas, chacun avec son driver, le tout alimenté par une alimentation industrielle 24 V. L'ESP32 reçoit les ordres de l'ordinateur via communication série USB et les transmet aux drivers.
  
 J'ai choisi des **drivers de type industriel** pour garder un câblage simple et robuste. Chaque moteur est associé à un driver adapté à son courant, pour avoir le couple nécessaire sans surdimensionner inutilement les composants.
  
 L'alimentation est volontairement surdimensionnée, car elle sert aussi à d'autres projets. Pour la tourelle seule, elle travaille à environ 20 % de sa capacité : elle chauffe peu, ne chute pas en tension lors des accélérations et laisse de la marge pour ajouter d'autres équipements.
- 
-[À compléter : schéma de câblage et photo de l'armoire électrique]
+
+ ![Schéma électrique du système](assets/
  
 <details markdown="1">
 <summary><strong>Détails techniques de l'électronique</strong></summary>
