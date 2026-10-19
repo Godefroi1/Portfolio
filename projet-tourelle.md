@@ -194,9 +194,10 @@ Le réglage fin continue :
 - Remplacer le corps en PLA par un corps en aluminium, plus rigide.
 - Passer sur une caméra de meilleure résolution.
 - Équiper la tourelle d'outils supplémentaires, ce pour quoi la base a été conçue.
+- Equiper la tourelle d'une vision infrarouge et croiser les données des flux vidéos pour optimiser la détection.
+  
 ---
  
 ## 🔗 Liens
  
-- Dépôt du projet : [À compléter : lien GitHub]
 - Technologies utilisées : [YOLOv8 (Ultralytics)](https://docs.ultralytics.com/models/yolov8/) et [OpenCV](https://opencv.org/)
