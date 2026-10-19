@@ -7,6 +7,8 @@ title: Tourelle autonome
 
 [← Retour à l'accueil du portfolio](./)
 
+![Tourelle fonctionnelle](assets/tourelle/photo_tourelle_.jpg)
+
 ## Sommaire
  
 - TOC
