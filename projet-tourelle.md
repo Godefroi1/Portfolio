@@ -112,7 +112,7 @@ J'ai choisi des **drivers de type industriel** pour garder un câblage simple et
  
 L'alimentation est volontairement surdimensionnée, car elle sert aussi à d'autres projets. Pour la tourelle seule, elle travaille à environ 20 % de sa capacité : elle chauffe peu, ne chute pas en tension lors des accélérations et laisse de la marge pour ajouter d'autres équipements.
 
- ![Schéma électrique du système](assets/tourelle/schema_elec.png)
+ ![Schéma électrique du système](assets/tourelle/schema_elec.svg)
  
 <details markdown="1">
 <summary><strong>Détails techniques de l'électronique</strong></summary>
