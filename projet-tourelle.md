@@ -114,8 +114,6 @@ L'alimentation est volontairement surdimensionnée, car elle sert aussi à d'aut
 
  ![Schéma électrique du système](assets/tourelle/schema_elec.svg)
  
-<details markdown="1">
-<summary><strong>Détails techniques de l'électronique</strong></summary>
 **Moteurs et drivers**
  
 | Axe | Moteur | Courant moteur | Driver | Plage du driver |
