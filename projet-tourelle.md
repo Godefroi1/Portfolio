@@ -44,7 +44,7 @@ Le principe est le même que pour une personne qui suit quelqu'un des yeux : voi
 4. **Agir.** Un microcontrôleur (ESP32) transforme cette décision en signaux électriques pour les moteurs, qui font bouger la tourelle.
 Ces quatre étapes se répètent en boucle, plusieurs fois par seconde.
  
-[À compléter : schéma de la chaîne caméra → ordinateur → ESP32 → moteurs]
+![Schéma bloc du fonctionnement logiciel et mécanique](assets/tourelle/principe_de_fonctionnement.svg)
  
 ---
  
