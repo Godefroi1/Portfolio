@@ -141,6 +141,10 @@ Les deux drivers utilisent une commande par processeur de signal (DSP). Elle ré
 | **Taux de charge** | **≈ 20 %** | |
  
 Le courant dans les moteurs est bien supérieur au courant tiré sur l'alimentation, car les drivers fonctionnent en découpage. C'est pourquoi le bilan se fait en puissance côté 24 V. L'ESP32 est alimenté par l'USB de l'ordinateur et n'est donc pas sur ce bus.
+
+Le coffret électrique est organisé autour d'une pièce dessinée par mes soins et imprimée en 3D pour simplifier le montage des composants électronique du système. 
+
+![Support de composant électronique](assets/tourelle/coffret_elec.jpg)
  
 **Pilotage par l'ESP32**
  
