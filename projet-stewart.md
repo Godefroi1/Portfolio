@@ -5,6 +5,8 @@ title: Plateforme de Stewart
 
 # Plateforme de Stewart
 
+[← Retour à l'accueil du portfolio](./)
+
 ## Sommaire 
 * TOC
 {:toc}
