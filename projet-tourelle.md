@@ -6,7 +6,7 @@ title: Tourelle autonome
 <script data-goatcounter="https://godefroi.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
-# Tourelle autonome
+# Tourelle de suivi autonome
 
 [← Retour à l'accueil du portfolio](./)
 
