@@ -3,6 +3,9 @@ layout: default
 title: Plateforme de Stewart
 ---
 
+<script data-goatcounter="https://godefroi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 # Plateforme de Stewart
 
 [← Retour à l'accueil du portfolio](./)
