@@ -62,17 +62,28 @@ Mon objectif est de concevoir des systèmes intelligents en intégrant des techn
 
 ### Projets académiques
 
+<div style="display: flex; gap: 1.5em; align-items: center; flex-wrap: wrap; margin: 1.5em 0;">
+
+<div style="flex: 1 1 320px;" markdown="1">
+
 - [Robot de démantèlement (partenariat CEA)](projet-cea.md)
+  * **Modélisation URDF & Simulation :**
+    * Conception et rédaction du fichier **URDF** (Unified Robot Description Format) pour définir la structure cinématique du robot (joints et links).
+    * Intégration du modèle sous **Foxglove** pour le monitoring de l'état du robot en temps réel.
+  * **Perception par Intelligence Artificielle (YOLOv8) :**
+    * Implémentation d'un nœud de vision utilisant **YOLOv8** pour la reconnaissance et le tri d'objets spécifiques.
+  * **Architecture Logicielle ROS :**
+    * Développement de l'architecture de communication série entre Raspberry Pi 5 et Arduino Uno et Méga.
+    * Rédaction d'une documentation technique exhaustive pour l'utilisateur final.
 
-   * **Modélisation URDF & Simulation :**
-      * Conception et rédaction du fichier **URDF** (Unified Robot Description Format) pour définir la structure cinématique du robot (joints et links).
-      * Intégration du modèle sous **Foxglove** pour le monitoring de l'état du robot en temps réel.
+</div>
 
-   * **Perception par Intelligence Artificielle (YOLOv8) :**
-      * Implémentation d'un nœud de vision utilisant **YOLOv8** pour la reconnaissance et le tri d'objets spécifiques.
+<a href="{{ '/projet-cea.html' | relative_url }}" style="flex: 0 1 280px; max-width: 100%;">
+  <img src="{{ '/assets/sysmap/sysmap.jpg' | relative_url }}"
+       alt="Cartographie système du robot de démantèlement (partenariat CEA)"
+       style="width: 100%; height: auto; display: block; border-radius: 8px;">
+</a>
 
-   * **Architecture Logicielle ROS :**
-      * Développement de l'architecture de communication série entre Raspberry Pi 5 et Arduino Uno et Méga.
-      * Rédaction d'une documentation technique exhaustive pour l'utilisateur final.
+</div>
 
 #### Contact
