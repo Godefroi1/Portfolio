@@ -14,26 +14,6 @@ title: Mon Portfolio
 Passionné par la **robotique mobile** et l'**Intelligence Artificielle**, je combine une formation théorique solide avec une pratique concrète du prototypage. 
 Mon objectif est de concevoir des systèmes intelligents en intégrant des technologies comme **ROS 2** et **YoloV8** afin de développer de nouvelles technologies.
 
-### 🛠 Compétences Techniques (Issues de mon parcours)
-
-| Catégorie | Technologies & Logiciels |
-| :--- | :--- |
-| **Robotique & IA** | ROS 2, Python (intermédiaire), Vision par ordinateur (YoloV8) |
-| **Conception & Simulation** | SolidWorks, COMSOL Multiphysics, Ansys, PrePoMax |
-| **Systèmes Embarqués** | ESP32, Raspberry Pi, Arduino (Communication série, I2C/SPI), FPGA  |
-| **Langues** | Anglais (TOEIC 970/990), Français (Maternel) |
-
-### 🤝 Compétences Humaines & Gestion de Projet
-
-| Catégorie | Compétences & Réalisations |
-| :--- | :--- |
-| **Gestion de projet** | Cadrage technique, pilotage et suivi d'avancement (modernisation de 90 automates industriels, tableau de bord Power BI) |
-| **Conduite du changement** | Définition et migration de 1 To de données d'exploitation régionales, formation de 50 collaborateurs |
-| **Analyse & aide à la décision** | Analyse du besoin, étude de faisabilité, chiffrage et calcul de ROI (solution de capteurs bas coût LoRaWAN) |
-| **Travail pluridisciplinaire** | Conception d'un robot en équipe avec un partenaire industriel (CEA), intégration de briques mécanique, électronique et logiciel |
-| **Documentation & communication** | Rédaction de documentation technique pour l'utilisateur final, présentation de solutions à des interlocuteurs non techniques |
-| **Savoir-être** | Autonomie, curiosité, pragmatisme, vision globale des systèmes |
-
 ## Projets personnels
 
 - [Plateforme de Stewart](projet-stewart.md)
@@ -85,5 +65,26 @@ Mon objectif est de concevoir des systèmes intelligents en intégrant des techn
 </a>
 
 </div>
+
+### 🛠 Compétences Techniques (Issues de mon parcours)
+
+| Catégorie | Technologies & Logiciels |
+| :--- | :--- |
+| **Robotique & IA** | ROS 2, Python (intermédiaire), Vision par ordinateur (YoloV8) |
+| **Conception & Simulation** | SolidWorks, COMSOL Multiphysics, Ansys, PrePoMax |
+| **Systèmes Embarqués** | ESP32, Raspberry Pi, Arduino (Communication série, I2C/SPI), FPGA  |
+| **Langues** | Anglais (TOEIC 970/990), Français (Maternel) |
+
+### 🤝 Compétences Humaines & Gestion de Projet
+
+| Catégorie | Compétences & Réalisations |
+| :--- | :--- |
+| **Gestion de projet** | Cadrage technique, pilotage et suivi d'avancement (modernisation de 90 automates industriels, tableau de bord Power BI) |
+| **Conduite du changement** | Définition et migration de 1 To de données d'exploitation régionales, formation de 50 collaborateurs |
+| **Analyse & aide à la décision** | Analyse du besoin, étude de faisabilité, chiffrage et calcul de ROI (solution de capteurs bas coût LoRaWAN) |
+| **Travail pluridisciplinaire** | Conception d'un robot en équipe avec un partenaire industriel (CEA), intégration de briques mécanique, électronique et logiciel |
+| **Documentation & communication** | Rédaction de documentation technique pour l'utilisateur final, présentation de solutions à des interlocuteurs non techniques |
+| **Savoir-être** | Autonomie, curiosité, pragmatisme, vision globale des systèmes |
+
 
 #### Contact
